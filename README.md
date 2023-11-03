@@ -1,5 +1,5 @@
 from prettytable import PrettyTable
-
+p
 customer = []
 data_iphone = []
 
